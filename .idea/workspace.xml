@@ -2,88 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a74ffa-b8de-459d-9434-b7f5887373fb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/firebase.json" afterPath="$PROJECT_DIR$/firebase.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/src.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/AirportDetails/AirportList.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Util/DateExtension.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Util/FlightSearchDetails.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Malaysian Airline.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Singapore_Airlines.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/bg1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/bg3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/bg4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/sin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/success.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/Button/Button.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/Button/Button.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/Button/Button.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/Header/Header.css" afterPath="$PROJECT_DIR$/src/common/Header/Header.css" />
-      <change beforePath="$PROJECT_DIR$/src/common/Header/Header.css.map" afterPath="$PROJECT_DIR$/src/common/Header/Header.css.map" />
-      <change beforePath="$PROJECT_DIR$/src/common/Header/Header.js" afterPath="$PROJECT_DIR$/src/common/Header/Header.js" />
-      <change beforePath="$PROJECT_DIR$/src/common/Header/Header.scss" afterPath="$PROJECT_DIR$/src/common/Header/Header.scss" />
-      <change beforePath="$PROJECT_DIR$/src/common/TextField/TextField.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/TextField/TextField.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/common/TextField/TextField.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/App/App.js" afterPath="$PROJECT_DIR$/src/container/App/App.js" />
-      <change beforePath="$PROJECT_DIR$/src/container/AppDashboard/AppDashboard.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/AppDashboard/AppDashboard.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/AppDashboard/AppDashboard.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/AppDashboard/AppDashboard.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/BookingDetails/BookingDetails.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/BookingDetails/bookingDetails.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/BookingDetails/bookingDetails.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/BookingDetails/bookingDetails.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Confirmation/Confirmation.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Confirmation/Confirmation.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Confirmation/Confirmation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Confirmation/Confirmation.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Dashboard/Dashboard.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Dashboard/Dashboard.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Dashboard/Dashboard.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Dashboard/Dashboard.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Dashboard/scss" afterPath="$PROJECT_DIR$/src/container/SignIn/SignIn.js" />
-      <change beforePath="$PROJECT_DIR$/src/container/Explore/Explore.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Explore/Explore.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Explore/Explore.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Explore/Explore.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Explore/ExploreAPI.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/FligthSelection/FlightSelection.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/FligthSelection/flightselection.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/FligthSelection/flightselection.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/FligthSelection/flightselection.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Login/Login.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Login/Login.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Login/Login.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Login/Login.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Marketing/Marketing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Marketing/MarketingService.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Marketing/marketing.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Marketing/marketing.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Marketing/marketing.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Medical/Medical.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Medical/Medical.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Medical/Medical.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Medical/Medical.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Medical/MedicalAPI.js" afterPath="$PROJECT_DIR$/src/container/SignIn/SignIn.scss" />
-      <change beforePath="$PROJECT_DIR$/src/container/Travel/Travel.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Travel/Travel.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Travel/Travel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Travel/Travel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/container/Travel/TravelAPI.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/bg1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/bg2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/bg3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/bg_ha.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change beforePath="$PROJECT_DIR$/src/index.css.map" afterPath="$PROJECT_DIR$/src/index.css.map" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" afterPath="$PROJECT_DIR$/src/index.scss" />
-      <change beforePath="$PROJECT_DIR$/src/modules/module-counter.js" afterPath="$PROJECT_DIR$/src/networking/AuthenticationAPI.js" />
-      <change beforePath="$PROJECT_DIR$/src/modules/modules-index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,7 +15,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -183,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/container/SignIn/SignIn.scss" />
         <option value="$PROJECT_DIR$/src/container/SignIn/SignIn.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -303,17 +234,18 @@
       <workItem from="1528439823004" duration="605000" />
       <workItem from="1528440791205" duration="1632000" />
       <workItem from="1528799611444" duration="3391000" />
-      <workItem from="1529746552968" duration="18475000" />
+      <workItem from="1529746552968" duration="18954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83376000" />
+    <option name="totallyTimeSpent" value="83855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20225511" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20225511" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -366,13 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Util/DateExtension.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -740,6 +665,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="false" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
           <folding />
         </state>
       </provider>
